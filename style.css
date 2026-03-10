@@ -1,0 +1,24 @@
+.hero-section{
+   /* Latar belakang */
+   background-color: #2c3e50;
+   /* Warna teks secara global di div ini */
+   color: white;
+   /* Memberi ruang agar tidak mepet pinggir */
+   padding: 50px;
+   text-align: center;
+}
+
+.judul-hero{
+   /* Tipografi */
+   font-family: 'Seogoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 48px;
+   font-weight: 700;
+   margin-bottom: 10px;
+}
+
+.sub-judul{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 18px;
+   font-weight: 300;
+   color: #bdc3c7;
+}
